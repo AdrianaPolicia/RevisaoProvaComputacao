@@ -32,6 +32,8 @@ C) III e IV, apenas.
 **D) II, III e IV, apenas.**  
 E) Todas as afirmativas estão corretas.
 
+Errado, a alternativa certa é **a)**
+
 ### QUESTÃO 3 – Banco de Dados Não Relacionais
 Uma startup desenvolvendo uma aplicação de redes sociais decidiu utilizar um banco de dados do tipo NoSQL para armazenar informações de perfis de usuários, postagens e relações de amizade. A escolha se deu pela flexibilidade de estrutura e pela necessidade de escalar horizontalmente a aplicação com facilidade.
 
@@ -47,6 +49,8 @@ C) II e III, apenas.
 **D) I, III e IV, apenas.**  
 E) Todas as afirmativas estão corretas.
 
+Errado, a alternativa certa é a **a)**
+
 ### QUESTÃO 4 – Requisições Assíncronas com Controllers
 Em uma aplicação que utiliza o framework Express.js, o aluno foi encarregado de implementar a lógica do backend. O sistema recebe requisições assíncronas do frontend utilizando a Fetch API e responde com dados obtidos de um banco PostgreSQL. A lógica de cada rota é implementada em controladores assíncronos.
 
@@ -56,8 +60,8 @@ III. Controllers devem concentrar a lógica de negócio e persistência para sim
 IV. As funções assíncronas exigem tratamento de erros com try/catch para evitar travamentos na aplicação.  
 
 **É correto o que se afirma em:**  
-A) I, II e IV, apenas. 
-**B) II e III, apenas.**  
+**A) I, II e IV, apenas.** 
+B) II e III, apenas.  
 C) I, III e IV, apenas.  
 D) I, II e III, apenas.  
 E) Todas as afirmativas estão corretas.
@@ -71,10 +75,10 @@ III. A camada de dados deve encapsular o acesso ao banco, impedindo o acesso dir
 IV. A ausência de camadas intermediárias favorece o acoplamento e reduz a reutilização de componentes.  
 
 **É correto o que se afirma em:**  
-A) I, II e III, apenas.  
+**A) I, II e III, apenas.**  
 B) II, III e IV, apenas.  
 C) I, III e IV, apenas.  
-**D) I, II e IV, apenas.**  
+D) I, II e IV, apenas.  
 E) Todas as afirmativas estão corretas.
 
 ### QUESTÃO 6 – Paradigmas de Programação
@@ -91,6 +95,8 @@ B) II e IV, apenas.
 C) I, III e IV, apenas.  
 **D) I, II e IV, apenas.**  
 E) Todas as afirmativas estão corretas.
+
+Errado, a alternativa certa é a **a)**
 
 ### QUESTÃO 7 – Setup de Ambiente com Node.js, VSCode e Supabase
 Ao iniciar o desenvolvimento de um projeto fullstack, uma equipe de estudantes realizou a instalação do Node.js, configurou o editor VSCode com extensões úteis, e utilizou o Supabase como backend. O objetivo era integrar de forma eficiente o frontend com um banco relacional escalável.
@@ -131,10 +137,10 @@ III. O Controller centraliza a lógica de negócio e se comunica tanto com o Mod
 IV. É uma boa prática permitir que a View invoque diretamente métodos do banco de dados para maior eficiência.  
 
 **É correto o que se afirma em:**  
-A) I, II e III, apenas.  
+**A) I, II e III, apenas.**  
 B) II e IV, apenas.  
 C) I, III e IV, apenas.  
-**D) I, II e IV, apenas.**  
+D) I, II e IV, apenas.  
 E) Todas as afirmativas estão corretas.
 
 ### QUESTÃO 10 – Estrutura e Semântica do HTML
@@ -151,3 +157,5 @@ B) II e IV, apenas.
 C) I, III e IV, apenas.  
 D) I, II e IV, apenas.  
 E) Todas as afirmativas estão corretas.
+
+**Acertos: 7/10** 
